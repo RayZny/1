@@ -32,7 +32,7 @@
 	$client = new \Google_Client();
     $client->setApplicationName('Google Sheets API PHP Quickstart');
     $client->setScopes(\Google_Service_Sheets::SPREADSHEETS);
-    $client->setAuthConfig(__DIR__.'/amiable-octane-272311-e2e44b0f4852.json');
+    $client->setAuthConfig(__DIR__.'/team-apiwat-daily-summary-b56454b73e63.json');
     $client->setAccessType('offline');
     // $client->setPrompt('select_account consent');
 
