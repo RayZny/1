@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "team-apiwat-daily-summary",
+  "private_key_id": "b56454b73e63c52bc3a23af3faa0421731d44973",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjqtqnPG+BGjih\nSN8g9EaFp89h33TFvwrWTKrS1G3NF3BDz4Qj+nYQyK+gIVrNtoJlOaHhz+aBqqRw\ngDGkvVj3RpnJ9gVUVopwcS1usj70Wf8qRZq2PlyHSDUX2XmBQV3Ch8cJg4ErFQxC\n9zT2xegO43e8IdNfPP2XKQrbQhzgSrHxVA+GFipYE+94l/MmVu+5Lz5D0t777mDB\nXBCt+T6BOv37c0G0A33de7HyEdcFCaOV5iKzVeDyHjTW36n3cFtkRsHNt6q9DHuK\nackNpxFOFUcapUw/ALO7vo2uwSeUrV/tzHB75X4rWlLNRW565c39i5DdNWLrI3H/\nciuYfPCZAgMBAAECggEAA6EWBKfXLCR19YOdaQhpqOyR8XBoUTs9hQeBsTejMK1Q\noLxRCJA0/oXIuTMMJawio5Z907lNufnb+B+rmiTVvHP9FIinURmzK6+iy4XZ1gbJ\n3Pjap6hl2l0cSklZA6f8qYPjwr7/BgLLOQ/sxX0Zen0KSmpwmrfKQsgW9Mo4RDPy\nufKp950pGsyp3SCGO52vGPzQEuBKdZclMEJcXajy8bQIz6fsBOmoLR+dyjC8ynCP\n7/MpQlbmScwZ+ZBPdcGpgnTFlqX9lYIsLkLJZS9w9bGZ99p7W3BCFHwapmd8vwqR\nJGZONs1WXyIy0EktJutRIrNHObDcLa8YHsHWabyeoQKBgQDaOotqBFAc1mId0HkK\nqOtCDnYZFSwVbe+ANplgvRVu0ZG/DlsVoUSCkYrJUrJZOgiunK77R+IR3P3PTdgs\noh1SEz2Ncb3eE4BTeUwkffXX5roYnEMFhRnwABy+Stp/WGRRaDI3E0is4T5Isymj\ndXRTo+TdVFZwHIcgrSwK1QIECQKBgQC//sNgctJjp4VmD88LslONIr7yl4hinKRq\nW4qw/ofWyzB82xXZ7NddGjaYEJfSJBOx/Np1acA9Ds3oQjU9/jy/7SZDNuzEVsvv\nnsuzzcW4kLK/QjDqTUfHnBFLLtqFFk/7i/9ReqjaiveKTYxS/18PVPREeSJDb2TR\nlvuKIuhMEQKBgGORvrZ6jUr7Df1odzHD7MNQ8dVz8Y89f79SKh0XaMYNXKB9nlV6\nJVYlrds5niJT9k4lMzl3jNB1smB5th53QUWHfdghg23mG/D6MSGdTyRZI6PC+Fl2\nZ2U3x+WTJapg3DTAg9jZNZmbk9170Y3BM3hOGUhbCK1Sdt0T5jpzAd5xAoGAfpMw\nrzdDqNtaQM0PTMDGAHf1tu1bxtdKNawgJUvItjzCvK2bHE7eNM0BTQMzdCDAs0jl\npR6Q1DAcY5CylSo1Vrq7zPg6473tOQ5RcTqprWIH1buHkBBe0CP96rj6616oYEgN\njOP2yg1v4Mf7SQR+4Ra66yGJCzg3GU4Wix00VGECgYBgeQRH1MGw/YiqJImywlmK\nKUYi5xuN4Yet43Vxm0MeyRfV6WGevLA1keswv9BRH52LASTl5EEeLn9Ee3BWAhRt\nMu2Rj53fXluTdTNHEgZt9Q4oHDSwXGbp6IVb9ATCwz0vNtbPvRWUTxnofGHHhKC5\nfVx0xDehtgGIpM9A/Nfc5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project1@team-apiwat-daily-summary.iam.gserviceaccount.com",
+  "client_id": "106534599441261206109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project1%40team-apiwat-daily-summary.iam.gserviceaccount.com"
+}
